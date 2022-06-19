@@ -50,10 +50,9 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MB557/COMPACT" title="IIIT Allahabad's Backpack"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=COMPACT&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MB557/Instagram-Message-Bot" title="Instagram Message Bot using Automation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=Instagram-Message-Bot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/MB557/COVID19-Classifier-Using-CNN-and-SVM" title="COVID19 Classifier Using CNN and SVM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=COVID19-Classifier-Using-CNN-and-SVM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MB557/Leetcode-Solutions" title="Leetcode-Solutions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=Leetcode-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
 <br><br><br><br><br><br>
 
 <h4 align="center">
