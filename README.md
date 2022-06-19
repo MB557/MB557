@@ -17,12 +17,64 @@
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at bhuvamilan5@gmail.com! I'll try to respond as soon as I can.
 
+<br>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MB557&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MB557&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB557&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=MB557&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<hr>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/MB557/Indoor-Scene-Recognition" title="Indoor Scene Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=Indoor-Scene-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MB557/Paddy-Quality-Classifier" title="Paddy Quality Classifier"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=Paddy-Quality-Classifier&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/MB557/COMPACT" title="IIIT Allahabad's Backpack"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=COMPACT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/MB557/Instagram-Message-Bot" title="Instagram Message Bot using Automation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MB557&repo=Instagram-Message-Bot&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/milanbhuva/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Struggling on <a href="https://www.leetcode.com/tanyarajhans7/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 😇
+<br><br><br><br><br><br>
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<h4 align="center">
+  <a href="https://github.com/MB557?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,java,javascript,c,cs,css,pr,styledcomponents,spring,mongodb,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=html,dotnet,bootstrap,tensorflow,ae,ps,linux,vscode,heroku,netlify,figma" />
+
+  </a>
+</p>
+<br>
+<h3 align="center">Learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scala,kotlin,aws,azure,kubernetes,googlecloud,flutter,docker" />
+  </a>
+</p>
+<hr>
