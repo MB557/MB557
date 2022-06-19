@@ -29,6 +29,7 @@
 ✉️ &nbsp;You can shoot me an email at bhuvamilan5@gmail.com! I'll try to respond as soon as I can.
 
 <br>
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
