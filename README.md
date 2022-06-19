@@ -1,12 +1,23 @@
+<div>
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=MB557&color=brightgreen" align="right"/>
+</div>
+
 # Hi, I'm Milan 👋🏾 👩🏾‍💻
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/mb557_?label=Follow)](https://twitter.com/intent/follow?screen_name=mb557_)
-[![Linkedin: Milan](https://img.shields.io/badge/-Milan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milanbhuva/)](https://www.linkedin.com/in/milanbhuva/)
-![GitHub followers](https://img.shields.io/github/followers/MB557?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=MB557&color=brightgreen">  
-
+  
 ![Milan Bhuva](https://user-images.githubusercontent.com/55105941/174480162-6aa8894f-b56e-410f-ab14-703d9cf7bb1b.png)
 
+<div align="center"> 
+  <a href = "https://www.milanbhuva.com"><img src="https://img.shields.io/badge/-Portfolio-%23B92B27?style=for-the-badge&logo=hyper&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bhuvamilan5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/milanbhuva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.github.com/MB557" target="_blank"><img src="https://img.shields.io/badge/-Github-330F63?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://leetcode.com/mb557x" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank"></a> 
+  <a href="https://twitter.com/mb557_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  
+ 
+</div>
+
+<hr>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
